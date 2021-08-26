@@ -1,0 +1,9 @@
+#GENERAL
+[Gamename] is a 2D platform/slashemup game Centered around the soundtrack.
+
+#COMBAT
+The combat is mainly(only?) melee and you can only hit on certain beats. There'll also be some sections of the soundtrack where you can warp around.
+
+#ARTSTYLE
+The artstyle is supposed to be pixel art with 80's neon rider vibes. To make sure the player feel the impact of every hit and important thing that happens in the game all those events trigger different visual feedbacks like screenshake, blur, colour shifting, slowmotion(?), etc.
+

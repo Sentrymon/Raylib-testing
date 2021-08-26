@@ -1,0 +1,3 @@
+Import aseprite files as animated sprites(https://github.com/RobLoach/raylib-aseprite)
+Extra math library(https://github.com/JusticeShultz/MathX)
+Addons for raylib (https://github.com/Ferrohound/RaylibEX)
